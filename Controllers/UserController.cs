@@ -8,7 +8,22 @@ public class UserController : Controller
 {
     public static System.Collections.Generic.List<User> userlist = new System.Collections.Generic.List<User>();
 
-// GET: User
+        // GET: User/SearchByName
+        public ActionResult SearchByName(string search)
+        {
+            // Check if the search term is null or empty
+            if (string.IsNullOrEmpty(search))
+            {
+                // Return the full user list if no search term is provided
+                return View("Index", userlist);
+            }
+
+            // Filter the userlist by name (case-insensitive)
+            var filteredUsers = userlist.Where(u => u.Name.Contains(search, StringComparison.OrdinalIgnoreCase)).ToList();
+
+            // Return the filtered list to the Index view
+            return View("Index", filteredUsers);
+        }
 
         // GET: User
         public ActionResult Index()
