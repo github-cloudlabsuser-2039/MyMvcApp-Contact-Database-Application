@@ -1,0 +1,14 @@
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.exe
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\appsettings.Development.json
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\appsettings.json
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\ARM Template\azuredeploy.json
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\ARM Template\deploy.parameters.json
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.dll
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.deps.json
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.runtimeconfig.json
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\MyMvcApp.pdb
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\xunit.abstractions.dll
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\xunit.assert.dll
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\xunit.core.dll
+C:\hackaton\MyMvcApp-Contact-Database-Application\MyMvcApp-Contact-Database-Application\bin\Release\net8.0\publish\xunit.execution.dotnet.dll

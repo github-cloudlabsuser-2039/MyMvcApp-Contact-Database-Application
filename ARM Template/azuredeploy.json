@@ -40,35 +40,5 @@
         "Application_Type": "web"
       }
     }
-  ],
-  "parameters": {
-    "location": {
-      "type": "string",
-      "defaultValue": "East US",
-      "metadata": {
-        "description": "Location for all resources."
-      }
-    },
-    "appServicePlanName": {
-      "type": "string",
-      "defaultValue": "MyAppServicePlan",
-      "metadata": {
-        "description": "Mi aplicacion"
-      }
-    },
-    "webAppName": {
-      "type": "string",
-      "defaultValue": "MyMvcApp",
-      "metadata": {
-        "description": "Name of the Web App."
-      }
-    },
-    "appInsightsName": {
-      "type": "string",
-      "defaultValue": "MyMvcAppInsights",
-      "metadata": {
-        "description": "Name of the Application Insights resource."
-      }
-    }
-  }
+  ]
 }
